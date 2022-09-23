@@ -4,7 +4,7 @@
 
 I'm Denny Setyawan Huda!
 
-- <i>Currently:</i> MS CS Student at UPN "Veteran" Jawa Timur.
+- <i>Currently:</i>Student at UPN "Veteran" Jawa Timur.
 
 <h2>💻 I'm Currently Learning</h2>
 
