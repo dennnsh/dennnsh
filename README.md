@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Hey! 👋</h1>
 
-<!--
-**dennnsh/dennnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dennyshuda)](https://github.com/dennyshuda) [![GitHub followers](https://img.shields.io/github/followers/dennyshuda.svg?style=social&label=Follow)](https://github.com/dennyshuda?tab=followers)
 
-Here are some ideas to get you started:
+I'm Denny Setyawan Huda!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <i>Currently:</i> MS CS Student at UPN "Veteran" Jawa Timur.
+
+<h2>💻 I'm Currently Learning</h2>
+
+- Frontend Web Developer
+
+<h2>👀 Stats</h2>
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennyshuda" alt="GitHub Stats" /> <br/><br>
+</div>
+
+<h2> About Denny:</h2>
+
+I'm a Undergraduate Student living in Surabaya, Indonesia. Outside Tech, I love to read, enjoy music and explore nature outdoors.
+
+<h2>📫 How to reach me:</h2>
+
+<a href="https://www.linkedin.com/in/dennyshuda/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
