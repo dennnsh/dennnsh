@@ -4,11 +4,13 @@
 
 I'm Denny Setyawan Huda!
 
-- <i>Currently:</i>Student at UPN "Veteran" Jawa Timur.
+- <i>Currently:</i> Student at UPN "Veteran" Jawa Timur.
 
 <h2>💻 I'm Currently Learning</h2>
 
 - Frontend Web Developer
+- Backend Developer (coming soon)
+- Fullstack Developer (coming soon)
 
 <h2>👀 Stats</h2>
 
@@ -20,7 +22,7 @@ I'm Denny Setyawan Huda!
 
 <h2> About Denny:</h2>
 
-I'm a Undergraduate Student living in Surabaya, Indonesia. Outside Tech, I love to read, enjoy music and explore nature outdoors.
+I'm a Undergraduate Student living in Surabaya, Indonesia. Outside Tech, I love to play Volleyball, enjoy music and explore nature outdoors.
 
 <h2>📫 How to reach me:</h2>
 
