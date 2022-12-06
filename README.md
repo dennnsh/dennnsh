@@ -14,11 +14,11 @@ I'm Denny Setyawan Huda!
 
 <h2>👀 Stats</h2>
 
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennyshuda" alt="GitHub Stats" /> <br/><br>
-</div>
+![Denny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennyshuda&show_icons=true&theme=transparent)
+
+<h2>Language</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyshuda&layout=compact)](https://github.com/dennyshuda/github-readme-stats)
 
 <h2> About Denny:</h2>
 
