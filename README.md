@@ -18,7 +18,7 @@ I'm Denny Setyawan Huda!
 
 <h2>Language</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyshuda&layout=compact)](https://github.com/dennyshuda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyshuda&layout=compact&hide=html)](https://github.com/dennyshuda/github-readme-stats)
 
 <h2> About Denny:</h2>
 
