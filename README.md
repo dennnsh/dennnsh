@@ -4,13 +4,10 @@
 
 I'm Denny Setyawan Huda!
 
-- <i>Currently:</i> Student at UPN "Veteran" Jawa Timur.
-
 <h2>💻 I'm Currently Learning</h2>
 
 - Frontend Web Developer
-- Backend Developer (coming soon)
-- Fullstack Developer (coming soon)
+- Backend Developer (learning)
 
 <h2>👀 Stats</h2>
 
